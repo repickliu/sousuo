@@ -1,0 +1,10 @@
+ServerIP 172.26.3.124
+Port 9999
+ThreadpoolCap 4
+TaskQueSize 5
+cnDictPath ../data/cnDict.dat
+enDictPath ../data/enDict.dat
+cachePath ../data/Cache
+endir ../yuliao/The_Holy_Bible.txt
+cndir ../yuliao/art/
+logfile ../log/server.log
